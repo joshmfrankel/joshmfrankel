@@ -6,10 +6,10 @@ I am obsessed with mastering the newest programming techniques and skills. You c
 
 ## Find me elsewhere on the web
 
-* [Blog](https://joshfrankel.me/blog/)
-* [Bluesky](https://bsky.app/profile/joshfrankel.bsky.social)
-* [Mastodon, ruby.social](https://ruby.social/@JoshFrankel)
-* [LinkedIn](https://linkedin.com/in/joshmfrankel/)
+* ✍🏻 [Blog](https://joshfrankel.me/blog/)
+* 💬 [Bluesky](https://bsky.app/profile/joshfrankel.bsky.social)
+* 💎 [Mastodon, ruby.social](https://ruby.social/@JoshFrankel)
+* 🫱🏻‍🫲🏽 [LinkedIn](https://linkedin.com/in/joshmfrankel/)
 
 ## My Skillset
 
