@@ -13,17 +13,23 @@ I am obsessed with mastering the newest programming techniques and skills. You c
 
 ## My Skillset
 
-**Front End**: Design Systems, ESLint, Hotwire, HTML, JavaScript, Markdown, React.js, Stimulus.js, Tailwind CSS, TypeScript, UI Libraries, ViewComponents  
+**Front End**  
+Design Systems, ESLint, Hotwire, HTML, JavaScript, Markdown, React.js, Stimulus.js, Tailwind CSS, TypeScript, UI Libraries, ViewComponents  
 
-**Back End**: Automated Tests, Capybara, Elasticsearch, Express.js, GraphQL, Minitest, Next.js, Node.js, PostgreSQL, Prisma, Redis, REST API, RSpec, Rubocop, Ruby on Rails, Sidekiq, SQL, Java, SQS  
+**Back End**  
+Automated Tests, Capybara, Elasticsearch, Express.js, GraphQL, Minitest, Next.js, Node.js, PostgreSQL, Prisma, Redis, REST API, RSpec, Rubocop, Ruby on Rails, Sidekiq, SQL, Java, SQS  
 
-**DevOps**: Architecture, AWS, CI/CD, Datadog, Git, Grafana, Docker, GitHub Actions, Heroku, Honeybadger, Linux, Migrations, Parcel, Scaling, Security, Sentry  
+**DevOps**  
+Architecture, AWS, CI/CD, Datadog, Git, Grafana, Docker, GitHub Actions, Heroku, Honeybadger, Linux, Migrations, Parcel, Scaling, Security, Sentry  
 
-**Integrations**: Auth0, DoseSpot Ayva Treat, Google Calendar, Google Meet, GlobalLink Web, Healthie, Jira, Keycloak, Linear, PagerDuty, Slack, Stripe, Twitter, Webflow, Webhooks, Zendesk, Ziggeo, Zoom 
+**Integrations**  
+Auth0, DoseSpot Ayva Treat, Google Calendar, Google Meet, GlobalLink Web, Healthie, Jira, Keycloak, Linear, PagerDuty, Slack, Stripe, Twitter, Webflow, Webhooks, Zendesk, Ziggeo, Zoom 
 
-**Process**: Agile, Communication, Empathy, HIPAA Compliance, Leadership, Mentoring, Optimization, Pair Programming, Roadmapping, Scaling, Scoping, Shape Up, Teaching  
+**Process**  
+Agile, Communication, Empathy, HIPAA Compliance, Leadership, Mentoring, Optimization, Pair Programming, Roadmapping, Scaling, Scoping, Shape Up, Teaching  
 
-**Learning**: Ai, Android Studio, Bash, Elixir, Expo, Go, iOS, Jest, Kafka, Kubernetes, Python, Vitest  
+**Learning**  
+Ai, Android Studio, Bash, Elixir, Expo, Go, iOS, Jest, Kafka, Kubernetes, Python, Vitest  
 
 
 
